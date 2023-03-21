@@ -3,7 +3,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I+am+an+info+tech+enthusiast!" /></a>
 </p>
 
-![](https://github.com/Venedah/Venedah/blob/main/Valentineenedah.jpg)
 
 
 * 🌍  I'm based in Lagos, Nigeria
